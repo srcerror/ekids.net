@@ -16,6 +16,13 @@ namespace WordProcessing
             var relpath = @"..\..\..\..\..\input";
             var path = Path.Combine(relpath, _filename);
             var exists = File.Exists(path);
+            if (!exists) 
+            {
+                // VS Code running in the same directory
+                relpath = @"..\..\input";
+                path = Path.Combine(relpath, _filename);
+                exists = File.Exists(path);
+            }
             Console.WriteLine($"Hello World! File Exists = {exists}");
 
             #region 1
@@ -47,13 +54,19 @@ namespace WordProcessing
             */
             #endregion
 
+            #region 4
+            /*
             var words = FindWords(File.ReadAllText(path), true).Take(100);
             foreach(var word in words)
             {
                 Console.Write(word + " ");
             }
+            */
+            #endregion
         }
 
+        #region 4.1
+        /*
         public static IEnumerable<string> FindWords(string input, bool toLower = false)
         {
             if (string.IsNullOrEmpty(input)) return new List<string>();
@@ -82,5 +95,7 @@ namespace WordProcessing
 
             return result;
         }
+        */
+        #endregion
     }
 }
