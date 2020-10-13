@@ -3,6 +3,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using eKids;
 
 namespace WordProcessing
 {
@@ -17,7 +18,7 @@ namespace WordProcessing
             var path = Path.Combine(relpath, _filepath);
             var exists = File.Exists(path);
 
-            if (!exists) 
+            if (!exists)
             {
                 // VS Code running in the same directory
                 relpath = @"..\..\input";
@@ -27,8 +28,18 @@ namespace WordProcessing
             Console.WriteLine($"File Exists = {exists}");
 
             var all = File.ReadAllText(path);
+            var lines = File.ReadAllLines(path);
             Console.WriteLine($"File contains {all.Length} characters");
 
+            // TestWordProcessing(all);
+
+            var words = all.FindWords(toLower: true);
+            var wordsAll = lines.FindWords(false);
+            Console.WriteLine($"Количество найденных слов = {words.Distinct().Count()} ({wordsAll.Distinct().Count()})");
+        }
+
+        private static void TestWordProcessing(string all)
+        {
             string pathd = @"c:\Code\ekids\repo\README.md";
             string path1 = @"c:\Code\ekids\repo\";
             string path2 = @"c:\Code\ekids\repo";
@@ -44,7 +55,7 @@ namespace WordProcessing
 
             // space count
             int count = 0;
-            foreach(var ch in all)
+            foreach (var ch in all)
             {
                 if (ch == ' ')
                 {
@@ -76,7 +87,7 @@ namespace WordProcessing
             Console.WriteLine($"All punctuation: \n{string.Join(' ', pun)}");
 
             var pf = new Dictionary<char, int>();
-            foreach(var ch in punct)
+            foreach (var ch in punct)
             {
                 if (pf.ContainsKey(ch))
                 {
@@ -87,7 +98,7 @@ namespace WordProcessing
                     pf[ch] = 1;
                 }
             }
-            foreach(var kv in pf)
+            foreach (var kv in pf)
             {
                 Console.WriteLine($"[{kv.Key}] = {kv.Value}");
             }
@@ -105,14 +116,14 @@ namespace WordProcessing
 
             var words = allwords.Where(t => t.Contains('-'));
 
-            foreach(var word in words)
+            foreach (var word in words)
             {
                 Console.Write(word + " ");
             }
             Console.WriteLine();
 
             var wfreq = new Dictionary<string, int>();
-            foreach(var w in allwords)
+            foreach (var w in allwords)
             {
                 if (wfreq.ContainsKey(w)) wfreq[w] += 1;
                 else wfreq[w] = 1;
