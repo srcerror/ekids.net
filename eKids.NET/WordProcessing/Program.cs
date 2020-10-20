@@ -19,15 +19,39 @@ namespace WordProcessing
             // Anagramma lookup
             // Load Dictionary
             var path = LocateFile("russian.dic");
+            //var path = LocateFile("litf-win-utf8.txt");
             // as words
             List<string> words = new List<string>();
+            var wordsdic = new Dictionary<string, HashSet<string>>();
             using (var file = new StreamReader(path, Encoding.UTF8))
             {
-                words = file.FindWords(true).ToList();
-
-                Debug.WriteLine($"Total number of words = {words.Count()}");
+                //words = file.FindWords(true).ToList();
+                //Debug.WriteLine($"Total number of words = {words.Count()}");
+                foreach (var word in file.FindWords(true))
+                {
+                    words.Add(word);
+                    var key = word.ToInvariantKey();
+                    if (wordsdic.ContainsKey(key))
+                    {
+                        wordsdic[key].Add(word);
+                    }
+                    else
+                    {
+                        var hs = new HashSet<string>();
+                        hs.Add(word);
+                        wordsdic[key] = hs; 
+                    }
+                }
             }
 
+            Console.WriteLine($"Unique keys {wordsdic.Keys.Count}. All words = {words.Count}");
+            var an = new Dictionary<string, HashSet<string>>();
+            foreach (var kv in wordsdic.Where(x => x.Value.Count > 1))
+            {
+                an[kv.Key] = kv.Value;
+            }
+
+            Console.WriteLine($"Unique keys {an.Keys.Count}.");
             // create invariant keys
 
             //foreach (var word in words.Take(100))
@@ -42,6 +66,26 @@ namespace WordProcessing
             //        Console.WriteLine($"{word.ToInvariantKey()} = {word}");
             //}
 
+            var max = an.Max(x => x.Value.Count);
+            Console.WriteLine($"Максимум {max} анаграмм");
+
+            var longest = an.OrderByDescending(x => x.Key.Length).Take(10);
+            Console.WriteLine("10 longest anagramms");
+            foreach (var ang in longest)
+            {
+                PrintAnagramm(ang);
+            }
+
+            var an1 = an.OrderByDescending(x => x.Value.Count).Take(10);
+            foreach (var ang in an1)
+            {
+                PrintAnagramm(ang);
+            }
+
+            foreach (var ang in an.Where(x => x.Key.Length == 5 && x.Value.Count >= 6))
+            {
+                PrintAnagramm(ang);
+            }
 
             while (true)
             {
@@ -50,7 +94,7 @@ namespace WordProcessing
 
                 if (string.IsNullOrEmpty(input)) break;
                 var key = input.ToInvariantKey();
-                var anagrams = words.Where(x => (key == x.ToInvariantKey()));
+                var anagrams = wordsdic[key];
 
                 foreach (var word in anagrams)
                 {
@@ -58,6 +102,18 @@ namespace WordProcessing
                 }
             }
 
+        }
+
+        private static void PrintAnagramm(KeyValuePair<string, HashSet<string>> ang)
+        {
+            Console.Write(ang.Key);
+            Console.Write(" : ");
+            foreach (var word in ang.Value)
+            {
+                Console.Write(word + ", ");
+            }
+            Console.WriteLine();
+            Console.WriteLine();
         }
 
         private static string LocateFile(string filename)
