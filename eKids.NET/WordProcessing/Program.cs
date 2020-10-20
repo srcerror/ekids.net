@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using eKids;
+using System.Diagnostics;
 
 namespace WordProcessing
 {
@@ -12,6 +13,68 @@ namespace WordProcessing
         private const string _filepath = "rhit1_utf8.txt";
 
         static void Main(string[] args)
+        {
+            //TestFindWords();
+
+            // Anagramma lookup
+            // Load Dictionary
+            var path = LocateFile("russian.dic");
+            // as words
+            using (var file = new StreamReader(path, Encoding.UTF8))
+            {
+                var words = file.FindWords(true);
+                // create invariant keys
+
+                foreach (var word in words.Take(10))
+                {
+                    Console.WriteLine(word.ToInvariantKey());
+                }
+
+                var key = "апельсин".ToInvariantKey();
+                foreach (var word in words)
+                {
+                    if (key == word.ToInvariantKey())
+                        Console.WriteLine(word);
+                }
+            }
+
+
+
+        }
+
+        private static string LocateFile(string filename)
+        {
+            Debug.WriteLine($"Looking for {filename} from current directory: {Environment.CurrentDirectory}");
+
+            // check current directory
+            var path = Path.Combine(Environment.CurrentDirectory, filename);
+            if (File.Exists(path))
+            {
+                Debug.WriteLine($"Found in current directory = {Environment.CurrentDirectory}");
+                return path;
+            }
+
+            // check Visual Studio relative path
+            var relpathVS = @"..\..\..\..\..\input";
+            path = Path.Combine(relpathVS, filename);
+            if (File.Exists(path))
+            {
+                Debug.WriteLine($"Found in Visual Studio relative path to input folder");
+                return path;
+            }
+
+            //check Visual Studio Code relative path
+            var relpathVSC = @"..\..\input";
+            path = Path.Combine(relpathVSC, filename);
+            if (File.Exists(path))
+            {
+                Debug.WriteLine($"Found in Visual Studio Code relative path to input folder");
+                return path;
+            }
+            throw new FileNotFoundException($"File {filename} was not found");
+        }
+
+        private static void TestFindWords()
         {
             Console.WriteLine($"{Environment.CurrentDirectory}");
             var relpath = @"..\..\..\..\..\input";

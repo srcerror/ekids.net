@@ -44,5 +44,20 @@ namespace Words.Tests
 
             Assert.AreEqual(expected, actual);
         }
+
+        [Test]
+        public void TestAllTokens()
+        {
+            // AAA = Arrange, Act, Assert
+            var input = "Hello   ,   World!";
+            var expected = new string[] { "Hello", "   ", ",", "   ", "World", "!" };
+
+            var actual = input.FindTokens().ToList();
+
+            for (int i = 0; i < expected.Length; i++)
+            {
+                Assert.AreEqual(expected[i], actual[i]);
+            }
+        }
     }
 }
