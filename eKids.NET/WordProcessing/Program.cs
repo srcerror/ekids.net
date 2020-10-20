@@ -20,25 +20,43 @@ namespace WordProcessing
             // Load Dictionary
             var path = LocateFile("russian.dic");
             // as words
+            List<string> words = new List<string>();
             using (var file = new StreamReader(path, Encoding.UTF8))
             {
-                var words = file.FindWords(true);
-                // create invariant keys
+                words = file.FindWords(true).ToList();
 
-                foreach (var word in words.Take(10))
-                {
-                    Console.WriteLine(word.ToInvariantKey());
-                }
-
-                var key = "апельсин".ToInvariantKey();
-                foreach (var word in words)
-                {
-                    if (key == word.ToInvariantKey())
-                        Console.WriteLine(word);
-                }
+                Debug.WriteLine($"Total number of words = {words.Count()}");
             }
 
+            // create invariant keys
 
+            //foreach (var word in words.Take(100))
+            //{
+            //    Console.WriteLine($"{word.ToInvariantKey()} = {word}");
+            //}
+
+            //var key = "пенсионерка".ToInvariantKey();
+            //foreach (var word in words)
+            //{
+            //    if (key == word.ToInvariantKey())
+            //        Console.WriteLine($"{word.ToInvariantKey()} = {word}");
+            //}
+
+
+            while (true)
+            {
+                Console.WriteLine("Введите строку для поиска анаграммы");
+                var input = Console.ReadLine();
+
+                if (string.IsNullOrEmpty(input)) break;
+                var key = input.ToInvariantKey();
+                var anagrams = words.Where(x => (key == x.ToInvariantKey()));
+
+                foreach (var word in anagrams)
+                {
+                    Console.WriteLine($"{word.ToInvariantKey()} = {word}");
+                }
+            }
 
         }
 
@@ -94,7 +112,7 @@ namespace WordProcessing
             var lines = File.ReadAllLines(path);
             Console.WriteLine($"File contains {all.Length} characters");
 
-            // TestWordProcessing(all);
+            TestWordProcessing(all);
 
             var words = all.FindWords(toLower: true);
             var wordsAll = lines.FindWords(false);
