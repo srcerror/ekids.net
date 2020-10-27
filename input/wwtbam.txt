@@ -1,0 +1,2748 @@
+__          ___            __          __         _         _______     
+\ \        / / |           \ \        / /        | |       |__   __|
+ \ \  /\  / /| |__   ___    \ \  /\  / /_ _ _ __ | |_ ___     | | ___
+  \ \/  \/ / | '_ \ / _ \    \ \/  \/ / _` | '_ \| __/ __|    | |/ _ \
+   \  /\  /  | | | | (_) |    \  /\  / (_| | | | | |_\__ \    | | (_) | 
+    \/  \/   |_| |_|\___/      \/  \/ \__,_|_| |_|\__|___/    |_|\___/  
+
+
+ ____                    __  __ _ _ _ _                   _         ___  
+|  _ \           /\     |  \/  (_) | (_)                 (_)       |__ \ 
+| |_) | ___     /  \    | \  / |_| | |_  ___  _ __   __ _ _ _ __ ___  ) |
+|  _ < / _ \   / /\ \   | |\/| | | | | |/ _ \| '_ \ / _` | | '__/ _ \/ / 
+| |_) |  __/  / ____ \  | |  | | | | | | (_) | | | | (_| | | | |  __/_|  
+|____/ \___| /_/    \_\ |_|  |_|_|_|_|_|\___/|_| |_|\__,_|_|_|  \___(_)  
+
+ZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZXZ
+ 
+                            +----------------------+
+---------------------------<| 0. Table of Contents |>--------------------------
+                            +----------------------+
+
+0. Table of Contents
+1. Legal Stuff
+2. Guide History
+3. Basics
+4. Questions
+- 4.1  £100
+- 4.2  £200
+- 4.3  £300
+- 4.4  £500
+- 4.5  £1,000
+- 4.6  £2,000
+- 4.7  £4,000
+- 4.8  £8,000
+- 4.9  £16,000
+- 4.10 £32,000
+- 4.11 £64,000
+- 4.12 £125,000
+- 4.13 £250,000
+- 4.14 £500,000
+- 4.15 £1,000,000
+5. Guide Info
+                               +----------------+
+------------------------------<| 1. Legal Stuff |>-----------------------------
+                               +----------------+
+
+Basically its simple, DO NOT copy this guide unless giving me credit. The only
+site this guide is allowed to be on is www.gamefaqs.com. If you wish to put my
+FAQ/Walkthrough up on your site, e-mail me (check the FAQ Info section). This
+document Copyright 2005.
+
+The Questions and answers are from the game.
+
+                             +------------------+
+----------------------------<| 2. Guide History |>-----------------------------
+                             +------------------+
+
+(12:22 PM 06/07/2005):V: 0.10 Start the Guide.
+
+(1:53 PM 06/07/2005):V: 0.35 Sent in my first draft of the Guide.
+
+(1:22 PM 08/07/2005):V: 0.35 First draft was rejected and I continue the
+                             guide.
+
+(3:37 PM 08/07/2005):V: 0.75 I wonder how many questions there are as I slowly
+                             go insane.
+
+(1:01 PM 10/07/2005):V: 0.80 just added a bunch of questions, although I did
+                             break the 100 question mark!
+
+(3:52 PM 10/07/2005):V: 0.82 Decide to test how many questions per category
+                             there are by throwing a bunch of £100 questions
+                             also, my internet is down so I cannot resubmit 
+                             the guide. I am currently guessing there may be
+                             over 100 questions in each catagory!
+
+(11:32 AM 11/07/2005):V: 0.85 Internet is still down. add more questions
+                              mostly to the £100 section.
+
+(6:57 AM 13/07/2005):V: 0.90 Internet is still down! starting to get annoyed
+                             so I added some questions, once again mostly in
+                             the £100 section. since the £100 questions are
+                             starting to repeat more, I am more confident in
+                             my 100 question estimate
+
+(11:15 AM 14/07/2005):V: 0.90 Internet is back up! submitted my guide. I also
+                              discovered that my estimate of 100 questions per
+                              swection was off... I am now guessing 150-200!
+
+(1:40 PM 14/07/2005):V: ? I decide to temporarily scrap the version number, at
+                          least until I can get an accurate idea of how many
+                          questions exist in the game.
+
+(3:18 PM 14/07/2005):V: ? I believe that I have gotten all of the questions
+                          from the £100 section. I hope that all the sections
+			  have the same number.
+
+(4:22 PM 14/07/2005):V: 0.30 assuming that I do 2 questions every time I
+                             update, I have figured out the appropriate guide
+	                     version.
+
+(3:22 PM 15/07/2005):V: 0.30 Quick update today, there wasn't really much I
+			     could add in the short amount of time I was on.
+
+(12:34 PM 18/07/2005):V: 0.30 I take out the boxes, I think that should bring
+                              up the signal/noise ratio of the guide.
+
+(8:55 AM 11/02/2006):V: 0.30 I add more Questions, I know it's been a while
+                             since I updated.
+
+                                 +-----------+
+--------------------------------<| 3. Basics |>--------------------------------
+                                 +-----------+
+
+D-Pad: move cursor around
+
+Button A: Selects whatever cursor is on
+
+The rest of the buttons don't do anything so there is no need to put them into
+the guide
+
+Lifelines:
+
+50:50 = subtracts 2 wrong answers
+Phone a friend = Calls one of your 'friends' who helps give you the answer
+Ask the audience = the audience votes on the correct answer
+
+The W means you walk away from the question
+
+                                +--------------+
+-------------------------------<| 4. Questions |>------------------------------
+                                +--------------+
+
+This is where the answer's to the questions will be, if you are having trouble
+finding the question you have please use control+f or click edit then find.
+
+The Questions are in the order that I received them and are catagorized into
+how much they are worth.
+
+Note: The order in which the choices are ordered in are random, so chances are
+      that the choices you have are slightly different.
+
+currently there are this many questions in each category
+
+£100:        105/105 Questions
+£200:         25/105 Questions
+£300:         24/105 Questions
+£500:         15/105 Questions
+£1,000:        9/105 Questions
+£2,000:        7/105 Questions
+£4,000:        7/105 Questions
+£8,000:        6/105 Questions
+£16,000:       3/105 Questions
+£32,000:       4/105 Questions
+£64,000:       4/105 Questions
+£125,000:      4/105 Questions
+£250,000:      5/105 Questions
+£500,000:      4/105 Questions
+£1,000,000:    9/105 Questions
+
+Total Questions: 231/1575
+
+Probability
+
+This is the probability you will find the question you are looking for in the
+desired Section:
+
+£100:           100.0%
+£200:            23.8%
+£300:            22.8%
+£500:            14.3%
+£1,000:           8.6%
+£2,000:           6.7%
+£4,000:           6.7%
+£8,000:           5.7%
+£16,000:          2.9%
+£32,000:          3.8%
+£64,000:          3.8%
+£125,000:         3.8%
+£250,000:         4.8%
+£500,000:         3.8%
+£1,000,000:       8.6%
+
+Total chance your question is in this guide: 14.6%
+
+                                                                    __________
+___________________________________________________________________/ 4.1 £100 \
+
+
+Which is part of the british police Force?
+
+
+A: Particular Root			B: Singular Leaf
+C: Unique Twig				D: Special Branch
+
+Answer: D: Special Branch
+
+-------------------------------------------------------------------------------
+
+
+Which was the title of Village People's UK No. 1 Single?
+
+
+A: RSPCA				B: NATO
+C: UNESCO				D: YMCA
+
+Answer: D: YMCA
+
+-------------------------------------------------------------------------------
+
+
+Which of these is a major city in southern France?
+
+
+A: Toutight				B: Toulouse
+C: Touearly				D: Toulate
+
+Answer: B: Toulouse
+
+-------------------------------------------------------------------------------
+ 
+
+Which is a traditional county of Nothern Ireland?
+
+
+A: Left					B: Down
+C: Up					D: Right
+
+Answer: B: Down
+
+-------------------------------------------------------------------------------
+
+
+Which is an official document allowing people to travel between countries?
+
+
+A: Passport				B: Passwine
+C: Passbubbly				D: Passplonk
+
+Answer: A: Passport
+
+-------------------------------------------------------------------------------
+
+
+Who was a leading character in 'The Avengers'?
+
+
+A: John Steed				B: Mike Mount
+C: Charlie Charger			D: Harry Horse
+
+Answer: A: John Steed
+
+------------------------------------------------------------------------------
+
+
+Which of these is a European capital city?
+
+
+A: Synge				B: Bern
+C: Skald				D: Boil
+
+Answer: B: Bern
+
+------------------------------------------------------------------------------
+
+Which of these is a national daily newspaper in the UK?
+
+
+A: The Comet				B: The Meteor
+C: The Sun				D: The Moon
+
+Answer: C: The Sun
+
+------------------------------------------------------------------------------
+
+
+According to the popular phrase, how many does it take to tango?
+
+
+A: One					B: Four
+C: Six					D: Two
+
+Answer: D: Two
+
+------------------------------------------------------------------------------
+
+
+Which of these is an international tennis tournament?
+
+
+A: Hendry Cup				B: Higgins Cup
+C: Davis Cup				D: O'sullivan Cup
+
+Answer: C: Davis cup
+
+------------------------------------------------------------------------------
+
+
+By which part of his body was Achilles held when he was dipped in the
+River Styx?
+
+
+A: Elbow				B: Pinkie
+C: Heel					D: Big Toe
+
+Answer: C: Heel
+
+------------------------------------------------------------------------------
+
+
+Which would you not expect to find in a pack of playing cards?
+
+
+A: Sapphires				B: Spades
+C: Diamonds				D: Clubs
+
+Answer: Sapphires
+
+------------------------------------------------------------------------------
+
+
+Complete the title of the Shakespeare play 'The Two Gentlemen of ..'?
+
+
+A: Venezuela				B: Vladivostok
+C: Vietnam				D: Verona
+
+Answer: D: Verona
+
+------------------------------------------------------------------------------
+
+
+For which of these purposes would jump-leads normally be used?
+
+
+A: Snare a rabbit			B: Start a car
+C: Catch a kangaroo			D: Ride a horse
+
+Answer: B: Start a car
+
+------------------------------------------------------------------------------
+
+
+What links a musical, and the device on which your luggage appears at the
+airport?
+
+
+A: Cats					B: Euita
+C: Carousel				D: Oklahoma
+
+Answer: C: Carousel
+
+------------------------------------------------------------------------------
+
+
+What name is given to an ancient Egyptian preserved human being?
+
+
+A: Daddy				B: Mummy
+C: Granny				D: Aunty
+
+Answer: B: Mummy
+
+------------------------------------------------------------------------------
+
+
+A hare in which month is said to be mad?
+
+
+A: July					B: April
+C: August				D: March
+
+Answer: D: March
+
+------------------------------------------------------------------------------
+
+
+Which is the country residence of the British Prime Minister?
+
+
+A: Draughts				B: Monopoly
+C: Chequers				D: Chess
+
+Answer: C: Chequers
+
+------------------------------------------------------------------------------
+
+
+Who is first in line of succession to the British throne?
+
+
+A: Prince Edward			B: Prince Philip
+C: Prince Charles			D: Prince William
+
+Answer: C: Prince Charles
+
+------------------------------------------------------------------------------
+
+
+Which breed of dog is also a type of men's underwear?
+
+
+A: Beagle				B: Borzoi
+C: Boxer				D: Bloodhound
+
+Answer: C: Boxer
+
+------------------------------------------------------------------------------
+
+
+Which of these is formed from oxygen?
+
+
+A: Timezone				B: Ozone
+C: Warzone				D: Boyzone
+
+Answer: B: Ozone
+
+------------------------------------------------------------------------------
+
+
+Which of the following os a geological period?
+
+
+A: Acidic				B: Frantic
+C: Boracic				D: Jurassic
+
+Answer: D: Jurassic
+
+------------------------------------------------------------------------------
+
+
+Which of these can be a head of state or a measuring implement?
+
+
+A: Odometer				B: Barometer
+C: Tape-measure				D: Ruler
+
+Answer: D: Ruler
+
+------------------------------------------------------------------------------
+
+
+According to the saying ' a man's house is his' - what?
+
+A: Tent					B: Bungalow
+C: Caravan				D: Castle
+
+Answer: D: Castle
+
+------------------------------------------------------------------------------
+
+
+What is the common name for a child's first teeth?
+
+
+A: Water teeth				B: Lager teeth
+C: Horlicks teeth			D: Milk teeth
+
+Answer: D: Milk teeth
+
+------------------------------------------------------------------------------
+
+
+How are the Prime Minister and senior ministers known collectivley?
+
+
+A: The Wardrobe				B: The Cabinet
+C: The Dresser				D: The Chest
+
+Answer: B: The Cabinet
+
+------------------------------------------------------------------------------
+
+
+What is the correct first name of the singer Miss Te Kanawa?
+
+
+A: Kitty				B: Kara
+C: Kiwi					D: Kiri
+
+Answer: D: Kiri
+
+------------------------------------------------------------------------------
+
+
+According to the saying, what colour does the pot call the kettle?
+
+
+A: Black				B: Puce
+C: White				D: Blue
+
+Answer: A: Black
+
+------------------------------------------------------------------------------
+
+
+What name is given to the first 10 amendments to the Constitution of the
+USA?
+
+
+A: Ben of Rights			B: Bill of Rights
+C: Brian of Rights			D: Barry of Rights
+
+Answer: B: Bill of Rights
+
+------------------------------------------------------------------------------
+
+
+Which international distress signal is used by ships and aircraft?
+
+
+A: Novemberday				B: Aprilday
+C: Juneday				D: Mayday
+
+Answer: D: Mayday
+
+------------------------------------------------------------------------------
+
+
+Which of these was a cult film of the 1990's?
+
+
+A: Line dancing				B: Stamp collecting
+C: Morris dancing			D: Trainspotting
+
+Answer: D: Trainspotting
+
+------------------------------------------------------------------------------
+
+
+Complete the name of the rock group, 'The Rolling ...?'
+
+
+A: Stones				B: Pins
+C: Eyes					D: Hills
+
+Answer: A: Stones
+
+------------------------------------------------------------------------------
+
+
+What is a common word for a fake doctor?
+
+
+A: Quack				B: Gobble
+C: Woof					D: Purr
+
+Answer: A: Quack
+
+------------------------------------------------------------------------------
+
+
+Which of these is an inlet on the east coast of England?
+
+
+A: The Spin				B: The Rinse
+C: The Soap				D: The Wash
+
+Answer: D: The Wash
+
+------------------------------------------------------------------------------
+
+
+Which is the fastest pace of a horse?
+
+
+A: Walk					B: Canter
+C: Trot					D: Gallop
+
+Answer: D: Gallop
+
+------------------------------------------------------------------------------
+
+
+Which of the following is the design or arrangement of staged dance?
+
+
+A: Bibliography				B: Phtography
+C: Typography				D: Choreography
+
+Answer: D: Choreography
+
+------------------------------------------------------------------------------
+
+
+In the traditional Australian song, who or what went 'waltzing'?
+
+
+A: Edna					B: Laura
+C: Glenda				D: Matilda
+
+Answer: D: Matilda
+
+------------------------------------------------------------------------------
+
+
+In which film did Pierce Brosnan make his debut as James Bond?
+
+
+A: Silverleg				B: Goldeneye
+C: Bronzefinger				D: Copperbottom
+
+Answer: B: Goldeneye
+
+------------------------------------------------------------------------------
+
+
+What is the title of Margaret Mitchell's only novel?
+
+
+A: Gone with the Snow			B: Gone with the Hail
+C: Gone with the wind			D: Gone with the rain
+
+Answer: C: Gone with the wind
+
+------------------------------------------------------------------------------
+
+
+Which bird is used to typify a gluttonous person?
+
+
+A: Gannet				B: Stork
+C: Magpie				D: Golden eagle
+
+Answer: A: Gannet
+
+------------------------------------------------------------------------------
+
+
+Which company runs the UK's national lottery - Lotto?
+
+
+A: Camelot				B: Valhalla
+C: Shangri-La				D: Avalon
+
+Answer: A: Camelot
+
+------------------------------------------------------------------------------
+
+
+How many musicians are there in a quartet?
+
+
+A: 6					B: 8
+C: 4					D: 2
+
+Answer: C: 4
+
+------------------------------------------------------------------------------
+
+
+Which of the following would you find working in a casino?
+
+
+A: Croupier				B: Fireman
+C: Air stewardess			D: Usherette
+
+Answer: A: Croupier
+
+------------------------------------------------------------------------------
+
+
+In which code are dots and dashes used to represent characters?
+
+
+A: Morse				B: Poirot
+C: Frost				D: Wycliffe
+
+Answer: A: Morse
+
+------------------------------------------------------------------------------
+
+
+What common name is given to an area near your elbow?
+
+
+A: Funny bone				B: Laughter line
+C: Chuckle muscle			D: Giggle nerve
+
+Answer: A: Funny bone
+
+------------------------------------------------------------------------------
+
+
+Which of these might be a nickname for a welshman?
+
+
+A: Tuff					B: Taff
+C: Tiff					D: Toff
+
+Answer: B: Taff
+
+------------------------------------------------------------------------------
+
+
+Who is missing from this line-up: John, Paul, George and ...?
+
+
+A: Gringo				B: Stingo
+C: Dingo				D: Ringo
+
+Answer: D: Ringo
+
+------------------------------------------------------------------------------
+
+
+What is a small portable wickerwork carrycot called?
+
+
+A: Jacob holdall			B: Isaac case
+C: Moses basket				D: Abraham bag
+
+Answer: C: Moses basket
+
+------------------------------------------------------------------------------
+
+
+The series of battles that started at St Albans in 1455 were the Wars of
+...?
+
+
+A: Pansies				B: Roses
+C: Daisies				D: Lilacs
+
+Answer: B: Roses
+
+------------------------------------------------------------------------------
+
+
+Which short italian word can mean either 'hello' or 'goodbye'?
+
+
+A: Fiat					B: Pasta
+C: Vino					D: Ciao
+
+Answer: D: Ciao
+
+------------------------------------------------------------------------------
+
+
+Which Chinese martial art was popularised in the films of Bruce Lee?
+
+
+A: Dim Sum				B: Kung fu
+C: Chop suey				D: Ho Chi Minh
+
+Answer: B: Kung fu
+
+------------------------------------------------------------------------------
+
+
+Which of these is a station on the London Underground?
+
+
+A: Baloo				B: Sooty
+C: Paddington				D: Winnie-the-pooh
+
+Answer: C: Paddington
+
+------------------------------------------------------------------------------
+
+
+What type of play is Shakespeare's 'Macbeth'?
+
+
+A: Slapstick				B: Farce
+C: Musical				D: Tragedy
+
+Answer: D: Tragedy
+
+------------------------------------------------------------------------------
+
+
+Who would live in a monastery?
+
+
+A: King					B: Soldier
+C: Student				D: Monk
+
+Answer: D: Monk
+
+------------------------------------------------------------------------------
+
+
+Which is the second book of the Old Testament?
+
+
+A: Runaway				B: Getoutahere
+C: Exodus				D: Beatit
+
+Answer: C: Exodus
+
+------------------------------------------------------------------------------
+
+
+What colour was the brick road followed by Dorothy and friends?
+
+
+A: Pink					B: Yellow
+C: Green				D: Red
+
+Answer: B: Yellow
+
+------------------------------------------------------------------------------
+
+
+Which doctor could speak to the animals?
+
+
+A: Dr No				B: Dr Watson
+C: Dr Dolittle				D: Dr Zhiuago
+
+Answer: C: Dr Dolittle
+
+------------------------------------------------------------------------------
+
+
+Which of these is an English Premiership football ground?
+
+
+A: Blue Trafford			B: Old Trafford
+C: New Trafford				D: Borrowed Trafford
+
+Answer: B: Old Trafford
+
+------------------------------------------------------------------------------
+
+
+Who prowled the streets of Whitechapel in the 1880s?
+
+
+A: Jack the Ripper			B: Jack the Kipper
+C: Jack the Dripper			D: Jack the Slipper
+
+Answer: A: Jack the Ripper
+
+------------------------------------------------------------------------------
+
+
+By what nickname was Martha Jane Cannary better known?
+
+
+A: Catastrophe Kate			B: Disaster Doris
+C: Calamity Jane			D: Debacle Debbie
+
+Answer: C: Calamity Jane
+
+------------------------------------------------------------------------------
+
+
+Which of the following is an ITV police drama series?
+
+
+A: The Mill				B: The Bill
+C: The Kill				D: The Hill
+
+Answer: B: The Bill
+
+------------------------------------------------------------------------------
+
+
+Where do you go when recalling a pleasant past ?
+
+
+A: Recall Street			B: Pastimes Place
+C: Reminiscence Park			D: Memory Lane
+
+Answer: D: Memory Lane
+
+------------------------------------------------------------------------------
+
+
+What was Humpty Dumpty sitting on when he fell?
+
+
+A: Bicycle				B: Horse
+C: Wall					D: Drawing pin
+
+Answer: C: Wall
+
+------------------------------------------------------------------------------
+
+
+Who, in the well-known fairy story, has a magic lamp?
+
+
+A: Prince Charming			B: Aladdin
+C: Snow White				D: Rumpelstiltskin
+
+Answer: B: Aladdin
+
+------------------------------------------------------------------------------
+
+
+Which is a mountain pass in the Hindu Kush?
+
+
+A: Buck Pass				B: Rugby Pass
+C: Khyber Pass				D: Port Pass
+
+Answer: C: Khyber Pass
+
+------------------------------------------------------------------------------
+
+
+Who is famous for the gunfight at the OK Corral?
+
+
+A: Winston Gwock			B: Whata Twerp
+C: Wyatt Earp				D: Wayne Dweek
+
+Answer: C: Wyatt Earp
+
+------------------------------------------------------------------------------
+
+
+Which of the following is a famous landmark in Paris?
+
+
+A: Waffel Block				B: Piffel Heights
+C: Eiffel Tower				D: Drivel Rise
+
+Answer: C: Eiffel Tower
+
+------------------------------------------------------------------------------
+
+
+Which island is part of New York City?
+
+
+A: Long Island				B: Wide Island
+C: Short Island				D: Narrow Island
+
+Answer: A: Long Island
+
+------------------------------------------------------------------------------
+
+
+In Egyptian mythology, what had the head of a man and the body of a lion?
+
+
+A: Minx					B: Lynx
+C: Sphinx				D: Stinx
+
+Answer: C: Sphinx
+
+------------------------------------------------------------------------------
+
+
+Guy Fawkes was involved in which famous plot?
+
+
+A: Gundog				B: Gunshot
+C: Gunboat				D: Gunpowder
+
+Answer: D: Gunpowder
+
+------------------------------------------------------------------------------
+
+
+According to legend, what shape was King Arthur's table?
+
+
+A: Oblong				B: Square
+C: Oval					D: Round
+
+Answer: D: Round
+
+------------------------------------------------------------------------------
+
+
+According to the song by Burt Bacharach, what 'Keep Fallin' on my Head'?
+
+
+A: Stars				B: Sunbeams
+C: Scaffolding				D: Raindrops
+
+Answer: D: Raindrops
+
+------------------------------------------------------------------------------
+
+
+What word is used too describe bad acting or a bad actor?
+
+
+A: Ham					B: Salami
+C: Bacon				D: Sausage
+
+Answer: A: Ham
+
+------------------------------------------------------------------------------
+
+
+Which of these is an offensive weapon?
+
+
+A: Knuckle duster			B: Nail cleaner
+C: Wrist wiper				D: Finger polisher
+
+Answer: A: Knuckle duster
+
+------------------------------------------------------------------------------
+
+
+Who is the patron saint of England?
+
+
+A: St George				B: St Leger
+C: St Trinian				D: St Bernard
+
+Answer: St George
+
+------------------------------------------------------------------------------
+
+
+Which colour does not appear on the Union Jack?
+
+
+A: Red					B: Green
+C: Blue					D: White
+
+Answer: B: Green
+
+------------------------------------------------------------------------------
+
+
+Which of these is one of the most northerly points of mainland Scotland?
+
+
+A: John O'Groats			B: John O'Crowns
+C: John O Pennies			D: John O'Shillings
+
+Answer: A: John O'Groats
+
+------------------------------------------------------------------------------
+
+
+Complete the name of the famous US horse race 'The Kentucky ...?
+
+
+A: Durham				B: Dover
+C: Darlington				D: Derby
+
+Answer: D: Derby
+
+------------------------------------------------------------------------------
+
+
+What number to the dozen means 'at a very fast rate'?
+
+
+A: Eighteen				B: Thirteen
+C: Twenty				D: Nineteen
+
+Answer: D: Nineteen
+
+------------------------------------------------------------------------------
+
+
+Which US inventor designed a whirlpool pump for bath tubs?
+
+
+A: Billy Bubblio			B: Candido Jacuzzi
+C: Pedro Pumpo				D: Williw Whirlo
+
+Answer: B: Candido Jacuzzi
+
+------------------------------------------------------------------------------
+
+
+Which of these would you find on the side of a ship?
+
+
+A: CLog line				B: Trainer line
+C: Sandal line				D: Plimsoll line
+
+Answer: D: Plimsoll line
+
+------------------------------------------------------------------------------
+
+
+What word is used to mean 'the centre of attention'?
+
+
+A: Limelight				B: Lemonlight
+C: Orangelight				D: Citruslight
+
+Answer: A: Limelight
+
+------------------------------------------------------------------------------
+
+
+Which of the following is an alkaloid drug found in tea leaves and coffee
+beans?
+
+
+A: Bromine				B: Caffeine
+C: Ethane				D: Iodine
+
+Answer: B: Caffeine
+
+------------------------------------------------------------------------------
+
+
+Which of these is an American military decoration?
+
+
+A: Crimson Kidney			B: Purple Heart
+C: Orange Liver				D: Pink Lung
+
+Answer: B: Purple Heart
+
+------------------------------------------------------------------------------
+
+
+What term is used for an insincere show of grief?
+
+
+A: Hyena howls				B: Crocodile tears
+C: Snake sobs				D: Weasle words
+
+Answer: B: Crocodile tears
+
+------------------------------------------------------------------------------
+
+
+Which of these animals is a pedestrian crossing?
+
+
+A: Lion					B: Zebra
+C: Elephant				D: Giraffe
+
+Answer: B: Zebra
+
+------------------------------------------------------------------------------
+
+
+Which of these is a lake in Utah?
+
+
+A: Great Mustard Lake			B: Great Salt Lake
+C: Great Pepper Lake			D: Great Vinegar Lake
+
+Answer: B: Great Salt Lake
+
+------------------------------------------------------------------------------
+
+
+By what popular name is the bell tower of Pisa cathedral known?
+
+
+A: Inclining Steeple			B: Wobbly Garret
+C: Leaning Tower			D: Bendy Spire
+
+Answer: C: Leaning Tower
+
+------------------------------------------------------------------------------
+
+
+Which of the following is a name for ireland?
+
+
+A: Emerald Isle				B: Azure Eyot
+C: Sable Sandbank			D: Scarlet Reef
+
+Answer: A: Emerald Isle
+
+------------------------------------------------------------------------------
+
+
+Which of these is a seaside resort in Cornwall?
+
+
+A: Bude					B: Rude
+C: Nude					D: Dude
+
+Answer: A: Bude
+
+------------------------------------------------------------------------------
+
+
+Which of these is a branch of the British armed forces?
+
+
+A: S4C					B: CND
+C: BBC					D: RAF
+
+Answer: D: RAF
+
+------------------------------------------------------------------------------
+
+
+Which of the following is a 1960 Lionel Bart musical?
+
+
+A: Owen!				B: Oscar!
+C: Oliver!				D: Oswald!
+
+Answer: C: Oliver!
+
+------------------------------------------------------------------------------
+
+
+How was singer Henry John Deutschendorf better known?
+
+
+A: John Arizona				B: John Utah
+C: John Denver				D: John Colorado
+
+Answer: C: John Denver
+
+------------------------------------------------------------------------------
+
+
+Complete the well known phrase, 'Like a red rag to a ...'?
+
+
+A: Fish					B: Sheep
+C: Spider				D: Bull
+
+Answer: D: Bull
+
+------------------------------------------------------------------------------
+
+
+Which cat created by Lewis Carroll has a broad fixed grin?
+
+
+A: Essex cat				B: Cheshire cat
+C: Devon cat				D: Suffolk cat
+
+Answer: B: Cheshire cat
+
+------------------------------------------------------------------------------
+
+
+Which of these is a home-made petrol bomb?
+
+
+A: Molotov Cocktail			B: Harvey Wallbanger
+C: Tom Collins				D: Pina Colada
+
+Answer: A: Molotov Cocktail
+
+------------------------------------------------------------------------------
+
+
+What is the day after Christmas Day called?
+
+
+A: Karate Day				B: Weightlifting Day
+C: Boxing Day				D: Judo Day
+
+Answer: C: Boxing Day
+
+------------------------------------------------------------------------------
+
+
+The head of the Court of Appeal in England and Wales is the Master of the
+...?
+
+
+A: Butties				B: Sandwhiches
+C: Rolls				D: Toasties
+
+Answer: C: Rolls
+
+------------------------------------------------------------------------------
+
+
+Which would you use for thelling the future?
+
+
+A: Credit Cards				B: Birthday cards
+C: Buisness cards			D: Tarot cards
+
+Answer: D: Tarot cards
+
+------------------------------------------------------------------------------
+
+
+Which of the following is not a rank in the British peerage?
+
+
+A: Chap					B: Earl
+C: Marquess				D: Duke
+
+Answer: A: Chap
+
+------------------------------------------------------------------------------
+
+
+Which insect is also the name of a famous children's book publisher?
+
+
+A: Grasshopper				B: Mosquito
+C: Ladybird				D: Spider
+
+Answer: C: Ladybird
+
+------------------------------------------------------------------------------
+
+
+Which of these are dark patches on the solar surface?
+
+
+A: Sunspots				B: Sunacne
+C: Sunpimples				D: Sunzits
+
+Answer: A: Sunspots
+
+------------------------------------------------------------------------------
+
+
+Who was a major figure during the English Civil War?
+
+
+A: Oliver Cromwell			B: Oliver North
+C: Oliver Hardy				D: Oliver Reed
+
+Answer: A: Oliver Cromwell
+
+------------------------------------------------------------------------------
+
+
+What is the name for a young goat?
+
+
+A: Toddler				B: Brat
+C: Rugrat				D: Kid
+
+Answer: D: Kid
+
+------------------------------------------------------------------------------
+
+
+What name is given to the administrative head of an university or college?
+
+
+A: Dan					B: Dudley
+C: Dean					D: David
+
+Answer: C: Dean
+
+                                                                   __________
+__________________________________________________________________/ 4.2 £200 \
+
+
+Which verb can go before 'Scotsman', 'Saucer', and 'Squad'?
+
+
+A: Standing				B: Hanging
+C: Sitting				D: Flying
+
+Answer: D: Flying
+
+------------------------------------------------------------------------------
+
+
+Which of the following is a wrestling hold?
+
+
+A: Quarter Wellington			B: Part Montgomery
+C: Half Nelson				D: Third Napoleon
+
+Answer: C: Half Nelson
+
+------------------------------------------------------------------------------
+
+
+In the abbreviation AGM for a special meeting, what does the 'G stand for?
+
+
+A: General				B: Grand
+C: Gross				D: Gathering
+
+Answer: A: General
+
+------------------------------------------------------------------------------
+
+
+Which of the following means ' a group of islands'?
+
+
+A: A cappella				B: Armadillo
+C: Archipelgo				D: Achilles
+
+Answer: Archipelgo
+
+------------------------------------------------------------------------------
+
+
+Which of these countries has a famous wall, allegedly visible from space?
+
+
+A: China				B: Greece
+C: Japan				D: Australia
+
+Answer: A: China
+
+------------------------------------------------------------------------------
+
+
+Which fictional adventruer travelled around the world in eighty days?
+
+
+A: Paul Pouringdown			B: Phileas Fogg
+C: Philip Mist				D: Peter Lightdrizzle
+
+Answer: B: Phileas Fogg
+
+------------------------------------------------------------------------------
+
+
+According to the saying, what grow from tiny acorns?
+
+
+A: Monsters				B: Mighty Oaks
+C: Big acorns				D: Hair
+
+Answer: B: Mighty Oaks
+
+------------------------------------------------------------------------------
+
+
+Which of these is used for an ineffectual young upper-class man?
+
+
+A: Hooray Henry				B: Jolly Roger
+C: Whoopee David			D: What ho George
+
+Answer: A: Hooray Henry
+
+------------------------------------------------------------------------------
+
+
+Which of the following is a dance popular in the 1940's?
+
+
+A: Wibbly-wobbly			B: Hokey-cokey
+B: Hanky-panky				D: Tinky-winky
+
+Answer: B: Hokey-cokey
+
+------------------------------------------------------------------------------
+
+
+Which was the final engagement of the Napoleonic Wars?
+
+
+A: Paddington				B: Marylebone
+C: Waterloo				D: Euston
+
+Answer: C: Waterloo
+
+------------------------------------------------------------------------------
+
+
+Which of these tribes invaded Britain in the 5th century AD?
+
+
+A: Curves				B: Angles
+C: Bends				D: Corners
+
+Answer: B: Angles
+
+------------------------------------------------------------------------------
+
+
+Which of these is not a chess piece?
+
+
+A: King					B: Knight
+C: Queen				D: Viscount
+
+Answer: D: Viscount
+
+------------------------------------------------------------------------------
+
+
+Which animal is known as the 'Ship of the Desert'?
+
+
+A: Elephant				B: Cow
+C: Rhinoceros				D: Camel
+
+Answer: D: Camel
+
+------------------------------------------------------------------------------
+
+
+What are male honeybees called?
+
+
+A: Crones				B: Clones
+C: Drones				D: Bones
+
+Answer: C: Drones
+
+------------------------------------------------------------------------------
+
+
+Which of these is a town in north-west Wales?
+
+
+A: Sparkler				B: Cracker
+C: Bangor				D: Rocket
+
+Answer: C: Bangor
+
+------------------------------------------------------------------------------
+
+
+In what unit is speed measured at sea?
+
+
+A: Hitch				B: Tie
+C: Rope					D: Knot
+
+Answer: D: Knot
+
+------------------------------------------------------------------------------
+
+
+Which comedian is famous for his Diddymen?
+
+
+A: Arthur Askey				B: Tommy Cooper
+C: Ken Dodd				D: Frankie Howard
+
+Answer: C: Ken Dodd
+
+------------------------------------------------------------------------------
+
+
+In the Bible, in which garden did Adam and Eve live?
+
+
+A: Sissinghurst				B: Eden
+C: Kew					D: Wisley
+
+Answer: B: Eden
+
+------------------------------------------------------------------------------
+
+
+What should you mind if you are particular about your language?
+
+
+A: C's and D's				B: X's and Y's
+C: P's and Q's				D: A's and B's
+
+Answer: C: P's and Q's
+
+------------------------------------------------------------------------------
+
+
+Which phrase means a 'daring step or enterprise'?
+
+
+A: Pace in the night			B: Walk in the shade
+C: Leap in the dark			D: Step in the gloom
+
+Answer: C: Leap in the dark
+
+------------------------------------------------------------------------------
+
+
+Which of the following is a long-running BBC radio serial?
+
+
+A: The Archers				B: The Shields
+C: The Cavalry				D: The swordsmen
+
+Answer: A: The Archers
+
+------------------------------------------------------------------------------
+
+
+Which two letters indicate that someone is a Member of Parliament?
+
+
+A: MP					B: MH
+C: ME					D: MC
+
+Answer: A: MP
+
+------------------------------------------------------------------------------
+
+
+What metaphorically, would you hand to someone as a gesture of peace?
+
+
+A: Olive branch				B: Girlfriend
+C: Lager				D: One pound
+
+Answer: A: Olive branch
+
+------------------------------------------------------------------------------
+
+
+In the rhyme, on the road to where, was the man with seven wives?
+
+
+A: Truro				B: Helston
+C: Land's End				D: St lues
+
+Answer: D: St lues
+
+------------------------------------------------------------------------------
+
+
+What is the name of the local pub in Tv's 'Coronation Street'?
+
+
+A: The Rovers Return			B: The Queen Vic
+C: The Woolpack				D: The King's Head
+
+Answer: A: The Rovers Return
+
+                                                                   __________
+__________________________________________________________________/ 4.3 £300 \
+
+
+To a Scot, what is a Sassenach?
+
+
+A: Englishman				B: Mountain Stream
+C: Highland Dance			D: Type of Haggis
+
+Answer: A: Englishman
+
+------------------------------------------------------------------------------
+
+
+Which of these is a type of Gateau?
+
+
+A: Black Forest				B: Blue Wood
+C: Red Copse				D: Green Dale
+
+Answer: A: Black Forest
+
+------------------------------------------------------------------------------
+
+
+What are the names of the brothers in the pop group Oasis?
+
+
+A: Dick and Dave			B: Kevin and Perry
+C: Jim and John				D: Noel and Liam
+
+Answer: D: Noel and Liam
+
+------------------------------------------------------------------------------
+
+
+Ogen, Gailia and Honeydew are varieties of which fruit?
+
+
+A: Tomato				B: Pear
+C: Apple				D: Melon
+
+Answer: D: Melon
+
+------------------------------------------------------------------------------
+
+
+Which stretch of water seperates Tasmania from mainland Australia?
+
+
+A: Bass Strait				B: Carlsberg Strait
+C: Guinness Strait			D: Heineken Strait
+
+Answer: A: Bass Strait
+
+------------------------------------------------------------------------------
+
+
+What is the first name of Stan Laurel's comedy partner Hardy?
+
+
+A: Desmond				B: Oliver
+C: Peregrine				D: Wilfred
+
+Answer: B: Oliver
+
+------------------------------------------------------------------------------
+
+
+Which Greek island gives it's name to a variety of lettuce?
+
+
+A: Rhodes				B: Crete
+C: Kos					D: Corfu
+
+Answer: C: Kos
+
+------------------------------------------------------------------------------
+
+
+Which of these dances is also a hot spicy dipping sauce?
+
+
+A: Salsa				B: Cha-cha-cha
+C: Bolero				D: Flamenco
+
+Answe: A: Salsa
+
+------------------------------------------------------------------------------
+
+
+From which country does Beaujolais wine come?
+
+
+A: Greece				B: Germany
+C: Sweden				D: France
+
+Answer: D: France
+
+------------------------------------------------------------------------------
+
+
+To which profession does the adjective thespian relate?
+
+
+A: Teaching				B: Medical
+C: Accounting				D: Acting
+
+Answer: D: Acting
+
+------------------------------------------------------------------------------
+
+
+Who captained the Nautilus in the film '20,000 Leagues Under The Sea'?
+
+
+A: Captain Nemo				B: Captain Corelli
+C: Captain Kirk				D: Captain Scarlet
+
+Answer: Captain Nemo
+
+------------------------------------------------------------------------------
+
+
+Which go together to mean totally opposite?
+
+
+A: Rock and flower			B: Bread and water
+C: Cakes and Ale			D: Chalk and cheese
+
+Answer: D: Chalk and cheese
+
+------------------------------------------------------------------------------
+
+
+On which day in 1929 did the gangland massacre take place in Chicago?
+
+
+A: Christmas Day			B: Boxing Day
+C: St. Valentine's Day			D: May Day
+
+Answer: C: St. Valentine's day
+
+------------------------------------------------------------------------------
+
+
+How were Groucho, Harpo, Chico and Zeppo known collectively?
+
+
+A: The Crazy Gang			B: The Mad Bunch
+C: The Marx brothers			D: The Goons
+
+Answer: C: The Marx Brothers
+
+------------------------------------------------------------------------------
+
+
+In the ancient Roman calendar, what name was given to the 15th March?
+
+
+A: Rides				B: Ides
+C: Hides				D: Sides
+
+Answer: B: Ides
+
+------------------------------------------------------------------------------
+
+
+Who was the Uk's first woman prime minister?
+
+
+A: Lady Astor				B: Barbara Castle
+C: Margaret Thatcher			D: Betty Boothroyd
+
+Answer: C: Margaret Thatcher
+
+------------------------------------------------------------------------------
+
+
+Who was the Roman goddess of love?
+
+
+A: Tracey				B: Victoria
+C: Venus				D: Sharon
+
+Answer: C: Venus
+
+------------------------------------------------------------------------------
+
+
+The expression 'below the belt' originated from which sport?
+
+
+A: Tennis				B: Boxing
+C: Cricket				D: Rowing
+
+Answer: B: Boxing
+
+------------------------------------------------------------------------------
+
+Which tree shares its name with an American ski resort?
+
+A: Aspen				B: Ash
+C: Apple				D: Elm
+
+Answer: A: Aspen
+
+------------------------------------------------------------------------------
+
+Complete the title of the film starring Madonna, 'Desperately Seeking ...?
+
+A: Steven				B: Work
+C: Love					D: Susan
+
+Answer: D: Susan
+
+------------------------------------------------------------------------------
+
+Which of the following is the main port and town in Jersey?
+
+A: St Albans				B: St Moritz
+C: St Helier				D: St Louis
+
+Answer: C: St Helier
+
+------------------------------------------------------------------------------
+
+Which the following means an animal that eats any kind of food?
+
+A: Herbivore				B: Picador
+C: Omnivore				D: Carnivore
+
+Answer: C: Omnivore
+
+------------------------------------------------------------------------------
+
+Which of these countries is split in two by a famous canal?
+
+A: Argentina				B: Libya
+C: Australia				D: Panama
+
+Answer: D: Panama
+
+------------------------------------------------------------------------------
+
+What is the name of the US president's retreat in Maryland?
+
+A: Canvas Charlie			B: Biuouac Brenda
+C: Camp David				D: Tent Thomas
+
+Answer: D: Tent Thomas
+
+
+                                                                   __________
+__________________________________________________________________/ 4.4 £500 \
+
+
+Which dialect forms the basis of the modern standard Chinese language?
+
+
+A: Satsuma				B: Jaffa
+C: Clementine				D: Mandarin
+
+Answer: D: Mandarin
+
+------------------------------------------------------------------------------
+
+
+Where are the headquarters of the Metropolitan Police force?
+
+
+A: Old Wales Road			B: Old Ireland Alley
+C: New Scotland Yard			D: New England Garden
+
+Answer: C: New Scotland Yard
+
+------------------------------------------------------------------------------
+
+
+What Replaced GCE and CSE exams in English school?
+
+
+A: SAT					B: NASUWT
+C: NUT					D: GCSE
+
+Answer: D: GCSE
+
+------------------------------------------------------------------------------
+
+
+By what other name is the rook known in chess?
+
+
+A: Tower				B: Palace
+C: Chateau				D: Castle
+
+Answer: D: Castle
+
+------------------------------------------------------------------------------
+
+
+What nickname refers to a country with an over-protective government?
+
+
+A: Creche Nation			B: Nanny state
+C: Toddler republic			D: Nursery country
+
+Answer: B: Nanny state
+
+------------------------------------------------------------------------------
+
+
+According to the title of a Beatles song, how many days are there in a
+week?
+
+
+A: Seven				B: Eight
+C: Tw					D: Nine
+
+Answer: B: Eight
+
+------------------------------------------------------------------------------
+
+
+Painting which bridge means an endless task?
+
+
+A: Tower Bridge				B: Severn Bridge
+C: Humber Bridge			D: Forth Bridge
+
+Answer: D: Forth Bridge
+
+------------------------------------------------------------------------------
+
+
+Which British writer had the initials J R R?
+
+
+A: Wells				B: Hardy
+C: Tolkien				D: Milne
+
+Answer: C: Tolkien
+
+------------------------------------------------------------------------------
+
+
+Complete the name of this American singer, Terence Trent ...?
+
+
+A: D'Oncaster				B: D'Urham
+C: D'Over				D: D'Arby
+
+Answer: B: D'Arby
+
+------------------------------------------------------------------------------
+
+
+Which is a fur hat worn by certain regiments of the British Army?
+
+
+A: Busby				B: Docherty
+C: Atkinson				D: Ferguson
+
+Answer: Busby
+
+------------------------------------------------------------------------------
+
+
+Which is a hook-shaped peninsula in Massachusetts?
+
+
+A: Cape Cod				B: Cape Eel
+C: Cape Herring				D: Cape Haddock
+
+Answer: A: Cape Cod
+
+------------------------------------------------------------------------------
+
+
+Which of the following is a famous Greek Dramatist?
+
+
+A: Ibrakides				B: Euripides
+C: Shetearides				D: Youdropides
+
+Answer: B: Euripides
+
+------------------------------------------------------------------------------
+
+
+Which former Soviet state shares it' name with a state of the USA?
+
+
+A: Belarus				B: Ukraine
+C: Estonia				D: Georgia
+
+Answer: D: Georgia
+
+------------------------------------------------------------------------------
+
+
+In which US city were the headquarters of the Al Capone gang?
+
+
+A: Los Angeles				B: New York
+C: Chicago				D: Washington
+
+Answer: C: Chicago
+
+------------------------------------------------------------------------------
+
+
+Edward 5th and his brother Richard are known as 'The Princes in the ...'?
+
+
+A: Palace				B: Tower
+C: Tabloids				D: Drink
+
+Answer: B: Tower
+
+                                                                 ____________
+________________________________________________________________/ 4.5 £1,000 \
+
+
+Which bird links Notts County and Newcastle United?
+
+
+A: Rock					B: Crow
+C: Raven				D: Magpie
+
+Answer: D: Magpie
+
+------------------------------------------------------------------------------
+
+
+Which of these is best known as a Japanese war cry?
+
+
+A: Karaoke				B: Banzai
+C: Origami				D: Bonsai
+
+Answer: B: Banzai
+
+------------------------------------------------------------------------------
+
+
+Which 'Nouveau' wine is traditionally rushed to the UK in November?
+
+
+A: Chablis				B: Burgundy
+C: Beaujolais				D: Chardonnay
+
+Answer: C: Beaujolais
+
+------------------------------------------------------------------------------
+
+
+By what name was the NatWest cricket trophy formerley known?
+
+
+A: Immac Cup				B: Wilkinson Cup
+C: Cutthroat Cup			D: Gillette Cup
+
+Answer: D: Gillette Cup
+
+------------------------------------------------------------------------------
+
+
+Which French ferryboat is closest to Dover?
+
+
+A: Le Touquet				B: Calais
+C: Boulogne				D: St Malo
+
+Answer: B: Calais
+
+------------------------------------------------------------------------------
+
+
+Complete the title of the famous novel by Joseph Heller, 'Catch...'?
+
+
+A: All					B: 22
+C: A Cold				D: It
+
+Answer: B: 22
+
+------------------------------------------------------------------------------
+
+
+Spike Milligan wrote and starred in which cult radio show of the 1950s?
+
+
+A: ITMA					B: The Navy Lark
+C: The Goon Show			D: Beyond Our Ken
+
+Answer: C: The Goon Show
+
+------------------------------------------------------------------------------
+
+
+Which of these is the UK's longest road?
+
+
+A: A3					B: M6
+C: A1					D: M25
+
+Answer: C: A1
+
+------------------------------------------------------------------------------
+
+
+Which of the following is not a fielding position in cricket?
+
+
+A: Long leg				B: Cover
+C: Stop gap				D: Slip
+
+Answer: C: Stop gap
+
+                                                                 ____________
+________________________________________________________________/ 4.6 £2,000 \
+
+
+The name of which cheese means 'Beatuful Country'?
+
+
+A: Bel Paese				B: Parmesan
+C: Dolcelatte				D: Roquefort
+
+Answer: A: Bel Paese
+
+------------------------------------------------------------------------------
+
+
+What term describes a vehicle travelling in netral?
+
+
+A: Beaching				B: Cruising
+C: Coasting				D: Drifting
+
+Answer: C: Coasting
+
+------------------------------------------------------------------------------
+
+
+What is measured on the Richter scale?
+
+
+A: Temperature				B: Air pressure
+C: Wind speed				D: Earthquakes
+
+Answer: D: Earthquakes
+
+------------------------------------------------------------------------------
+
+
+Which singer was known as the 'Forces Sweetheart' during WWII?
+
+
+A: Doris Day				B: Connie Francis
+C: Shirley Temple			D: Vera Lynn
+
+Answer: D: Vera Lynn
+
+------------------------------------------------------------------------------
+
+
+Which famous Manhatten street is also the title of a musical?
+
+
+A: Broadway				B: Chorus Line
+C: 42nd Street				D: Copacabana
+
+Answer: C: 42nd Street
+
+------------------------------------------------------------------------------
+
+
+Which 'Cluedo' character is known as Madame Curry in Switzerland?
+
+
+A: Professor Plum			B: Miss Scarlett
+C: Mrs Peacock				D: Colonel Mustard
+
+Answer: Colonel Mustard
+
+------------------------------------------------------------------------------
+
+
+On what, in every day use do the words Decus et Tutamen' appear?
+
+
+A: Postage stamp			B: Telephone
+C: Bus ticket				D: £1 coin
+
+Answer: D: £1 coin
+
+                                                                 ____________
+________________________________________________________________/ 4.7 £4,000 \
+
+
+Which US president was given the posthumous nickname 'Jack the Zipper'?
+
+
+A: John F Kennedy			B: John Adams
+C: Andrew Jackson			D: John Tyler
+
+Answer: A: John F Kennedy
+
+------------------------------------------------------------------------------
+
+
+Which of these is a large flightless bird from South America?
+
+
+A: Mia					B: Rhea
+C: Leah					D: Greer
+
+Answer: B: Rhea
+
+------------------------------------------------------------------------------
+
+
+Which of the following is not a national radio station?
+
+
+A: Virgin 1215				B: Classic FM
+C: talkSPORT				D: Capital Gold
+
+Answer: D: Capital Gold
+
+------------------------------------------------------------------------------
+
+
+How many rings appear on the Olympic flag?
+
+
+A: 5					B: 9
+C: 7					D: 3
+
+Answer: A: 5
+
+------------------------------------------------------------------------------
+
+
+What is indicated by the prefix 'mega'?
+
+
+A: 10 billion				B: 1 million
+C: 1 billion				D: 1 thousand
+
+Answer: B: 1 million
+------------------------------------------------------------------------------
+
+
+What is the singular form of the word 'bacteria'?
+
+
+A: Bacterium				B: Bacterio
+C: Bacterius				D: Bacteriae
+
+Answer: A: Bacterium
+
+------------------------------------------------------------------------------
+
+
+With which part of England is the song 'Blaydon Races' primarily
+associated?
+
+
+A: West Country				B: London
+C: Tyneside				D: Merseyside
+
+Answer: C: Tyneside
+
+                                                                 ____________
+________________________________________________________________/ 4.8 £8,000 \
+
+
+What is the capital of Pakistan?
+
+
+A: Lahore				B: Islamabad
+C: Rawalpini				D: Karachi
+
+Answer: B: Islamabad
+
+------------------------------------------------------------------------------
+
+
+Which of these grows down from the roof of a cave?
+
+
+A: Stalagmite				B: Malachite
+C: Stylobate				D: Stalactite
+
+Answer: D: Stalactite
+
+------------------------------------------------------------------------------
+
+
+On which continent is the world's longest river?
+
+
+A: Africa				B: North America
+C: South America			D: Asia
+
+Answer: A: Africa
+
+------------------------------------------------------------------------------
+
+
+'Ken and Me' is the autobiography of which veteran 'Coronation Street'
+actor?
+
+
+A: Vera Duckworth			B: Johnny Briggs
+C: Anne Kirkbride			D: William Roache
+
+Answer: D: William Roache
+
+------------------------------------------------------------------------------
+
+
+Which artificial language has a name which means ' the hopeful one'?
+
+
+A: Volapuk				B: Esperanto
+C: Backslang				D: Interlingua
+
+Answer: B: Esperanto
+
+------------------------------------------------------------------------------
+
+
+Which planet is furthest from the Sun?
+
+
+A: Neptune				B: Saturn
+C: Pluto				D: Uranus
+
+Answer: C: Pluto
+
+
+                                                                _____________
+_______________________________________________________________/ 4.9 £16,000 \
+
+
+The 'miracle' plays describe the lives of whom?
+
+
+A: Saints				B: Apostles
+C: Kings				D: Slaves
+
+Answer: A: Saints
+
+------------------------------------------------------------------------------
+
+
+The name of which card game is taken from the Spanish for 'basket'?
+
+
+A: Canasta				B: Whist
+C: Rummy				D: Poker
+
+Answer: A: Canasta
+
+------------------------------------------------------------------------------
+
+
+On which of these Spanish 'costas' is the resort of Benidorm?
+
+
+A: Dorada				B: Blanca
+C: Del Sol				D: Brava
+
+Answer: B: Blanca
+
+                                                               ______________
+______________________________________________________________/ 4.10 £32,000 \ 
+
+
+Who is the Central character in the children's books by Barbara Euphan Todd?
+
+
+A: Mary Poppins				B: Worst Witch
+C: Dr Dolittle				D: Worzel Gummidge
+
+Answer: D: Worzel Gummidge
+
+------------------------------------------------------------------------------
+
+
+Who composed the opera 'Rigoletto'?
+
+
+A: Verdi				B: Puccini
+C: Rossini				D: Bizet
+
+Answer: A: Verdi
+
+------------------------------------------------------------------------------
+
+
+Whose supposed last words were "you will find 'Calais' lying in my heart"?
+
+
+A: Mary I				B: Voltaire
+C: Oscar Wilde				D: Napoleon
+
+Answer: A: Mary I
+
+------------------------------------------------------------------------------
+
+
+By what common name is the crop 'Solarnum tuberosum' known?
+
+
+A: Oats					B: Potato
+C: Maize				D: Onion
+
+Answer: B: Potato
+
+                                                               ______________
+______________________________________________________________/ 4.11 £64,000 \
+
+
+Which is a credit card as opposed to a debit card?
+
+
+A: Mastercard				B: Switch
+C: Cirrus				D: Solo
+
+Answer: A: Mastercard
+
+------------------------------------------------------------------------------
+
+
+What does the Monument in London commemorate?
+
+
+A: Battle of Waterloo			B: Norman Conquest
+C: Queen Victoria			D: The Great Fire
+
+Answer: D: The Great Fire
+
+------------------------------------------------------------------------------
+
+
+What is a group of crows called?
+
+
+A: Murder				B: Conspiracy
+C: Assembly				D: Connivance
+
+Answer: A: Murder
+
+------------------------------------------------------------------------------
+
+
+To which class of animals do frogs and toads belong?
+
+
+A: Mammalia				B: Aves
+C: Reptilia				D: Amphibia
+
+Answer: D: Amphibia
+
+                                                              _______________
+_____________________________________________________________/ 4.12 £125,000 \
+
+
+Which of these drinks is distilled from the agave plant?
+
+
+A: Sake					B: Sambuca
+C: Tequila				D: Calvados
+
+Answer: C: Tequila
+
+------------------------------------------------------------------------------
+
+
+On which country's flag does the Dharma Chakra or Wheel of Law feature?
+
+
+A: Pakistan				B: Sri Lanka
+C: Thailand				D: India
+
+Answer: D: India
+
+------------------------------------------------------------------------------
+
+
+Which spy was nicknamed after an orphan boy created by Kipling?
+
+
+A: Maclean				B: Burgess
+C: Blunt				D: Philby
+
+Answer: D: Philby
+
+------------------------------------------------------------------------------
+
+
+What would you expect to find in a book called a 'grimoire'?
+
+
+A: Songs				B: Prayers
+C: Recipes				D: Spells
+
+Answer: D: Spells
+
+                                                              _______________
+_____________________________________________________________/ 4.13 £250,000 \
+
+
+Which birds are sometimes known as the archangel Gabriel's hounds?
+
+
+A: Ducks				B: Swans
+C: Geese				D: Ravens
+
+Answer: C: Geese
+
+------------------------------------------------------------------------------
+
+
+Which of the following is not part of Dante's 'The Divine Comedy'?
+
+
+A: Redemption				B: Paradise
+C: Purgatory				D: Hell
+
+Answer: A: Redemption
+
+------------------------------------------------------------------------------
+
+
+Which Spanish city was the birthplace of Pablo Picasso?
+
+
+A: Barcelona				B: Madrid
+C: Cordoba				D: Malaga
+
+Answer: D: Malaga
+
+------------------------------------------------------------------------------
+
+
+Which city does not host the Three Choirs Festival?
+
+
+A: Gloucester				B: Chester
+C: Hereford				D: Worcester
+
+Answer: B: Chester
+
+------------------------------------------------------------------------------
+
+
+'Goodbye to All That' is the autobiography of which British poet?
+
+
+A: Philip Larkin			B: Robert Graves
+C: T S Eliot				D: Ted Hughes
+
+Answer: Robert Graves
+
+                                                              _______________
+_____________________________________________________________/ 4.14 £500,000 \
+
+
+In which religion are the five K's a set of religious observances?
+
+
+A: Jainism				B: Sikhism
+C: Hinduism				D: Buddhism
+
+Answer: B: Sikhism
+
+------------------------------------------------------------------------------
+
+
+What is the inner and longer of the two bones in the human forearm called?
+
+
+A: Ulna					B: Humerus
+C: Radius				D: Femur
+
+Answer: A: Ulna
+
+------------------------------------------------------------------------------
+
+
+In which month is the Earth nearest to the Sun?
+
+
+A: March				B: July
+C: January				D: September
+
+Answer: C: January
+
+------------------------------------------------------------------------------
+
+
+Which element is added to rubber in the process of vulcanization?
+
+
+A: Silicon				B: Sulphur
+C: Sodium				D: Strontium
+
+Answer: B: Sulphur
+
+                                                            _________________
+___________________________________________________________/ 4.15 £1,000,000 \
+
+
+An eyas is a young what?
+
+
+A: Haw					B: Gull
+C: Penguin				D: Eagle
+
+Answer: A: Hawk
+
+------------------------------------------------------------------------------
+
+
+Which of the following applies to a form of set theory in computing and
+logic?
+
+
+A: Fuzzy				B: Furry
+C: Silky				D: Woolly
+
+Answer: A: Fuzzy
+
+------------------------------------------------------------------------------
+
+
+Which was Abba's second UK No 1 single?
+
+
+A: Fernando				B: Dancing Queen
+C: Mamma Mia				D: Waterloo
+
+Answer: C: Mamma Mia
+
+------------------------------------------------------------------------------
+
+
+Who in the Bible was chosen by Xerxes I to be his queen?
+
+
+A: Ruth					B: Deborah
+C: Esther				D: Sarah
+
+Answer: C: Esther
+
+------------------------------------------------------------------------------
+
+
+Which English essayist and poet used the pseudonym 'Elia'?
+
+
+A: Charles Lamb				B: Oscar Wilde
+C: Thomas Carlyle			D: William Hazlitt
+
+Answer: A: Charles Lamb
+
+------------------------------------------------------------------------------
+
+
+What nationality was the composer Zoltan Kodaly?
+
+
+A: Polish				B: Romanian
+C: Czech				D: Hungarian
+
+Answer: D: Hungarian
+
+------------------------------------------------------------------------------
+
+
+Which duke holds the title Earl Marshal?
+
+
+A: Westminster				B: Bedford
+C: Norfolk				D: Malborough
+
+Answer: C: Norfolk
+
+------------------------------------------------------------------------------
+
+
+Which of the following was not part of the First Roman Triumuirate of
+60 BC?
+
+
+A: Pompey				B: Crassus
+C: Caesar				D: Cassius
+
+Answer: D: Cassius
+
+------------------------------------------------------------------------------
+
+
+Of which mountain range is a 'Kafir' a native?
+
+
+A: Himalayas				B: Urals
+C: Hindu Kush				D: Caucasus
+
+Answer: C: Hindu Kush
+
+                               +---------------+
+------------------------------<| 5. Guide Info |>-----------------------------
+                               +---------------+
+
+-Date: 11/02/2006
+-version: 0.30
+-name: Sanyo (Nobody’s Hero)
+-e-mail: clanman23@hotmail.com
+Restore Page

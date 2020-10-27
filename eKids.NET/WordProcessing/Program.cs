@@ -8,6 +8,21 @@ using System.Diagnostics;
 
 namespace WordProcessing
 {
+    class WWQuestion
+    {
+        public int ID { get; set; }
+        public string Question { get; set; }
+        public string OptionA { get; set; }
+        public string OptionB { get; set; }
+        public string OptionC { get; set; }
+        public string OptionD { get; set; }
+        public string RightAnswer { get; set; }
+
+        public override string ToString()
+        {
+            return $"[{ID}]: {Question}\nA: {OptionA}\nB: {OptionB}\nC: {OptionC}\nD: {OptionD}\nAnswer: {RightAnswer}";
+        }
+    }
     class Program
     {
         private const string _filepath = "rhit1_utf8.txt";
@@ -16,6 +31,111 @@ namespace WordProcessing
         {
             //TestFindWords();
 
+            //AnagrammApp();
+
+            var path = LocateFile("wwtbam.txt");
+            bool readingItem = false;
+            int state = 0;
+            string question = "";
+            string aA = "", aB = "", aC = "", aD = "", aa = "";
+
+            var qq = new List<WWQuestion>();
+            int id = 0;
+            foreach (var line in File.ReadAllLines(path))
+            {
+                if (readingItem)
+                {
+                    // read item
+                    var empty = false;
+                    if (string.IsNullOrEmpty(line.Trim()))
+                        empty = true;
+                    switch (state)
+                    {
+                        case 0:
+                            // empty lines
+                            if (!empty)
+                            {
+                                question = line;
+                                state = 1;
+                            }
+                            break;
+                        case 1:
+                            // read question
+                            if (!empty)
+                            {
+                                question += " " + line;
+                            }
+                            else
+                            {
+                                state = 2;
+                            }
+                            break;
+                        case 2:
+                            if (!empty)
+                            {
+                                // read AB
+                                var idxB = line.IndexOf("B:");
+                                aA = line.Substring(3, idxB - 3).Trim();
+                                aB = line.Substring(idxB + 3).Trim();
+                                state = 3;
+                            }
+                            break;
+                        case 3:
+                            // read AB
+                            var idxD = line.IndexOf("D:");
+                            aC = line.Substring(3, idxD - 3).Trim();
+                            aD = line.Substring(idxD + 3).Trim();
+                            state = 4;
+                            break;
+                        case 4:
+                            //read Answer
+                            if (!empty)
+                            {
+                                aa = line.Substring(8, 1);
+
+                                var qqq = new WWQuestion()
+                                {
+                                    ID = id++,
+                                    Question = question,
+                                    OptionA = aA,
+                                    OptionB = aB,
+                                    OptionC = aC,
+                                    OptionD = aD,
+                                    RightAnswer = aa
+                                };
+
+                                qq.Add(qqq);
+
+                                readingItem = false;
+                            }
+                            break;
+                    }
+
+                }
+                else
+                {
+                    if (line.Contains("_________________________________________________"))
+                    {
+                        // read section info
+                        readingItem = true;
+                        state = 0;
+                        continue;
+                    } 
+                    else if (line.Contains("------------------------------------------------------------------------------"))
+                    {
+                        // start reading item in current section
+                        readingItem = true;
+                        state = 0;
+                    }
+                }
+
+            }
+
+            Console.WriteLine(qq[0]);
+        }
+
+        private static void AnagrammApp()
+        {
             // Anagramma lookup
             // Load Dictionary
             var path = LocateFile("russian.dic");
@@ -39,7 +159,7 @@ namespace WordProcessing
                     {
                         var hs = new HashSet<string>();
                         hs.Add(word);
-                        wordsdic[key] = hs; 
+                        wordsdic[key] = hs;
                     }
                 }
             }
@@ -101,7 +221,6 @@ namespace WordProcessing
                     Console.WriteLine($"{word.ToInvariantKey()} = {word}");
                 }
             }
-
         }
 
         private static void PrintAnagramm(KeyValuePair<string, HashSet<string>> ang)
