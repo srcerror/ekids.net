@@ -1,7 +1,11 @@
-﻿using System;
+﻿using HtmlAgilityPack;
+using Newtonsoft.Json.Linq;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net.Http;
+using System.Text;
 using System.Xml.Linq;
 
 namespace DataConsoleApp
@@ -9,6 +13,69 @@ namespace DataConsoleApp
     class Program
     {
         static void Main(string[] args)
+        {
+            //RSSdata();
+
+            //AstronomyHAP();
+
+            PuppySearch();
+        }
+
+        private static void PuppySearch()
+        {
+            //JSON + HttpClient
+
+            HttpClient cli = new HttpClient();
+            var content = new StringContent("{\"params\":{ \"query\":\"breed_id: '225'\",\"queryParser\":\"structured\",\"searchLogData\":{ \"breed_id\":\"225\"},\"size\":500,\"start\":0,\"sort\":\"search_sort_order asc\"},\"headers\":{ \"content-type\":\"application/json\"}}",
+                Encoding.UTF8, "application/json");
+
+            var result = cli.PostAsync("https://www.puppyspot.com/api/search?index=puppy", content).Result;
+
+            var json = result.Content.ReadAsStringAsync().Result;
+            var obj = JObject.Parse(json);
+            //Console.WriteLine(obj.ToString());
+
+            var hits = obj["result"]["hits"]["hit"] as JArray;
+            //Console.WriteLine(hits);
+            var puppies = hits.Select(p => new
+            {
+                Id = p["id"].ToString(),
+                Description = p["fields"]["puppyDescription"][0].ToString(),
+                Price = p["fields"]["price"][0].ToString()
+            });
+
+            foreach (var puppy in puppies)
+            {
+                Console.WriteLine($"Puppy #{puppy.Id}: (${puppy.Price})");
+                Console.WriteLine($"{puppy.Description}");
+                Console.WriteLine();
+            }
+        }
+
+        private static void AstronomyHAP()
+        {
+            // Astronomy picture of the day: https://apod.nasa.gov/apod/astropix.html
+            HtmlWeb html = new HtmlWeb();
+            var dox = html.Load("https://apod.nasa.gov/apod/astropix.html");
+
+            var image = dox.DocumentNode.Descendants("img").First();
+            Console.WriteLine(image.GetAttributeValue("src", "No Image"));
+
+            var links = dox.DocumentNode.Descendants("a").ToList();
+            Console.WriteLine($"Found {links.Count} nodes");
+
+            foreach (var item in links)
+            {
+                Console.WriteLine($"Link = {item.GetAttributeValue("href", "No Link")} : {item.InnerText}");
+            }
+
+            var prev = links.Where(x => x.InnerText.Contains("&lt;")).First();
+            var url = new Uri(new Uri("https://apod.nasa.gov/apod/astropix.html"), prev.GetAttributeValue("href", ""));
+
+            Console.WriteLine($"Previous URL={url.AbsoluteUri}");
+        }
+
+        private static void RSSdata()
         {
             var dox = XDocument.Load("https://news.tut.by/rss/index.rss");
 
@@ -31,7 +98,7 @@ namespace DataConsoleApp
             //    Console.WriteLine($"{title},{link}");
             //}
 
-            
+
 
             //foreach (var item in items)
             //{
