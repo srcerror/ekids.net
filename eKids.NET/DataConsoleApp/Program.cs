@@ -59,7 +59,13 @@ namespace DataConsoleApp
             var dox = html.Load("https://apod.nasa.gov/apod/astropix.html");
 
             var image = dox.DocumentNode.Descendants("img").First();
-            Console.WriteLine(image.GetAttributeValue("src", "No Image"));
+            string relImage = image.GetAttributeValue("src", "No Image");
+            var imageurl = new Uri(new Uri("https://apod.nasa.gov/apod/astropix.html"), relImage);
+            Console.WriteLine(imageurl.AbsoluteUri);
+
+            var relparent = image.ParentNode.GetAttributeValue("href", "no link");
+            var fullimage = new Uri(new Uri("https://apod.nasa.gov/apod/astropix.html"), relparent);
+            Console.WriteLine($"Full Image URL: {fullimage.AbsoluteUri}");
 
             var links = dox.DocumentNode.Descendants("a").ToList();
             Console.WriteLine($"Found {links.Count} nodes");
@@ -70,7 +76,8 @@ namespace DataConsoleApp
             }
 
             var prev = links.Where(x => x.InnerText.Contains("&lt;")).First();
-            var url = new Uri(new Uri("https://apod.nasa.gov/apod/astropix.html"), prev.GetAttributeValue("href", ""));
+            var rel = prev.GetAttributeValue("href", "");
+            var url = new Uri(new Uri("https://apod.nasa.gov/apod/astropix.html"), rel);
 
             Console.WriteLine($"Previous URL={url.AbsoluteUri}");
         }

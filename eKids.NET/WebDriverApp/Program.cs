@@ -11,8 +11,6 @@ namespace WebDriverApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
             IWebDriver driver;
 
             using(driver = new ChromeDriver())
@@ -33,9 +31,7 @@ namespace WebDriverApp
                     Console.WriteLine($"Page #{img.Page}: {img.Url}");
                 }
 
-
-                Console.WriteLine(res);
-
+                                
                 Console.ReadLine();
             }
 
