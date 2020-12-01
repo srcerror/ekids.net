@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Words.Tests", "Words.Tests\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataConsoleApp", "DataConsoleApp\DataConsoleApp.csproj", "{44E17AFB-84EE-4B1B-99E1-5D67C5C58FF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverApp", "WebDriverApp\WebDriverApp.csproj", "{40F6F9CC-D3B4-4051-B6C7-FA7AAFA9C563}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebDriverApp", "WebDriverApp\WebDriverApp.csproj", "{40F6F9CC-D3B4-4051-B6C7-FA7AAFA9C563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageApp", "StorageApp\StorageApp.csproj", "{B81A1477-ADD1-4E4B-87AC-B20601B525DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentfulApp", "ContentfulApp\ContentfulApp.csproj", "{159ECA71-4033-4311-9572-78C847BAF50D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{40F6F9CC-D3B4-4051-B6C7-FA7AAFA9C563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40F6F9CC-D3B4-4051-B6C7-FA7AAFA9C563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40F6F9CC-D3B4-4051-B6C7-FA7AAFA9C563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81A1477-ADD1-4E4B-87AC-B20601B525DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81A1477-ADD1-4E4B-87AC-B20601B525DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81A1477-ADD1-4E4B-87AC-B20601B525DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81A1477-ADD1-4E4B-87AC-B20601B525DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159ECA71-4033-4311-9572-78C847BAF50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159ECA71-4033-4311-9572-78C847BAF50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159ECA71-4033-4311-9572-78C847BAF50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159ECA71-4033-4311-9572-78C847BAF50D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
