@@ -89,7 +89,7 @@ namespace ContentfulApp
             };
 
             var newEntry = client.CreateOrUpdateEntry(entry, contentTypeId: "page", version: 1).Result;
-            client.PublishEntry(newEntry.SystemProperties.Id, newEntry.SystemProperties.Version.Value);
+            client.PublishEntry(newEntry.SystemProperties.Id, newEntry.SystemProperties.Version.Value).Wait();
             Console.WriteLine($"Entry created #{page}");
             Thread.Sleep(1000);
         }
