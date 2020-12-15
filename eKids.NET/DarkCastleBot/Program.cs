@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Net;
@@ -16,6 +18,8 @@ namespace DarkCastleBot
     public static class Program
     {
         private static TelegramBotClient Bot;
+        public static Dictionary<long, int> Page = new Dictionary<long, int>();
+        static public readonly Dictionary<int, string> Gamebook = new Dictionary<int, string>();
 
         public static async Task Main()
         {
@@ -29,18 +33,135 @@ namespace DarkCastleBot
             var me = await Bot.GetMeAsync();
             Console.Title = me.Username;
 
-            Bot.OnMessage += BotOnMessageReceived;
-            Bot.OnMessageEdited += BotOnMessageReceived;
+            Bot.OnMessage += DarkCastleOnMessageReceived; // BotOnMessageReceived;
+            //Bot.OnMessageEdited += BotOnMessageReceived;
             Bot.OnCallbackQuery += BotOnCallbackQueryReceived;
             Bot.OnInlineQuery += BotOnInlineQueryReceived;
             Bot.OnInlineResultChosen += BotOnChosenInlineResultReceived;
             Bot.OnReceiveError += BotOnReceiveError;
+
+            /// Load the book
+            /// 
+            var path = LocateFile("book1\\book1.txt");
+            int page = 1;
+            string text = "";
+            foreach (var str in System.IO.File.ReadAllLines(path))
+            {
+                if (str.Trim() == page.ToString())
+                {
+                    // create page
+                    if (page > 1)
+                        Gamebook[page - 1] = text;
+                    page++;
+                    text = "";
+                }
+                else
+                {
+                    text += "\n" + str;
+                }
+            }
+            // preparations complete
 
             Bot.StartReceiving(Array.Empty<UpdateType>());
             Console.WriteLine($"Start listening for @{me.Username}");
 
             Console.ReadLine();
             Bot.StopReceiving();
+        }
+
+        private static string LocateFile(string filename)
+        {
+            Debug.WriteLine($"Looking for {filename} from current directory: {Environment.CurrentDirectory}");
+
+            // check current directory
+            var path = Path.Combine(Environment.CurrentDirectory, filename);
+            if (System.IO.File.Exists(path))
+            {
+                Debug.WriteLine($"Found in current directory = {Environment.CurrentDirectory}");
+                return path;
+            }
+
+            // check Visual Studio relative path
+            var relpathVS = @"..\..\..\..\..\input";
+            path = Path.Combine(relpathVS, filename);
+            if (System.IO.File.Exists(path))
+            {
+                Debug.WriteLine($"Found in Visual Studio relative path to input folder");
+                return path;
+            }
+
+            //check Visual Studio Code relative path
+            var relpathVSC = @"..\..\input";
+            path = Path.Combine(relpathVSC, filename);
+            if (System.IO.File.Exists(path))
+            {
+                Debug.WriteLine($"Found in Visual Studio Code relative path to input folder");
+                return path;
+            }
+            throw new FileNotFoundException($"File {filename} was not found");
+        }
+
+        private static async void DarkCastleOnMessageReceived(object sender, MessageEventArgs messageEventArgs)
+        {
+            var message = messageEventArgs.Message;
+            if (message == null || message.Type != MessageType.Text)
+                return;
+
+            switch (message.Text.Split(' ').First())
+            {
+                // Send inline keyboard
+                case "/start":
+                    await Start(message);
+                    break;
+
+                default:
+                    await Play(message);
+                    break;
+            }
+
+        }
+
+        static async Task Start(Message message)
+        {
+            var chatId = message.Chat.Id;
+            Page[chatId] = 1;
+
+            string text = Gamebook[Page[chatId]];
+
+            await Bot.SendTextMessageAsync(
+                chatId: message.Chat.Id,
+                text: text,
+                replyMarkup: new ReplyKeyboardRemove()
+            );
+        }
+
+        static async Task Play(Message message)
+        {
+            var input = message.Text.Trim();
+            var chatId = message.Chat.Id;
+            if (!Page.ContainsKey(chatId))
+            {
+                Page[chatId] = 1;
+                input = "1";
+            }
+
+            int page;
+            string text = "";
+            if (int.TryParse(input, out page) && Gamebook.ContainsKey(page))
+            {
+                text = Gamebook[page];
+                Page[chatId] = page;
+            }
+            else
+            {
+                text = Gamebook[page] + "\n\n" + "Неверный ввод. Введите номер страницы";
+            }
+
+            await Bot.SendTextMessageAsync(
+                   chatId: message.Chat.Id,
+                   text: text,
+                   replyMarkup: new ReplyKeyboardRemove()
+               );
         }
 
         private static async void BotOnMessageReceived(object sender, MessageEventArgs messageEventArgs)
