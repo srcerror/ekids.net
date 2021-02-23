@@ -147,6 +147,8 @@ namespace DarkCastleBot
 
             int page;
             string text = "";
+            if (input.StartsWith('/'))
+                input = input.Substring(1);
             if (int.TryParse(input, out page) && Gamebook.ContainsKey(page))
             {
                 text = Gamebook[page];
@@ -154,7 +156,7 @@ namespace DarkCastleBot
             }
             else
             {
-                text = Gamebook[page] + "\n\n" + "Неверный ввод. Введите номер страницы";
+                text = Gamebook[Page[chatId]] + "\n\n" + "Неверный ввод. Введите номер страницы";
             }
 
             await Bot.SendTextMessageAsync(
